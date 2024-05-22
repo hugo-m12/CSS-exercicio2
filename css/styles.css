@@ -130,3 +130,31 @@
   right: 0;
   left: 0;
 }
+.quadrado1{
+  background-color: #89BA21;
+  width: 261px;
+  height: 287px;
+  left: 100px;
+  position: relative;
+  border: 1px solid black;
+  margin-top: 90px;
+}
+.quadrado2{
+  background-color: #AFE241;
+  width: 261px;
+  height: 287px;
+  border: 1px solid black;
+  position: relative;
+  z-index: 10;
+  left: 204px;
+  top:-200px;
+}
+.quadrado3{
+  background-color: #9ABD50;
+  width: 261px;
+  height: 287px;
+  border: 1px solid black;
+  position: relative;
+  top: -360px;
+  left: 335px;
+}
