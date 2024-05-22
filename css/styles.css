@@ -1,0 +1,45 @@
+.cube1{
+  width: 115px;
+  height: 108px;
+  background-color: #FA7B7B;
+  border: 3px solid #2400FF ;
+  margin: 100px auto;
+  position: relative;
+  margin-bottom: -30px;
+}
+.cube2{
+  width: 183px;
+  height: 172px;
+  background-color: #FA7B7B;
+  border: 3px solid #2400FF ;
+  margin: 100px auto;
+  position: relative;
+  margin-bottom: -30px;
+}
+.cube3{
+  width: 88px;
+  height: 83px;
+  background-color: #FA7B7B;
+  border: 3px solid #2400FF ;
+  top: 0px;
+  left: 0px;
+  position: absolute;
+}
+.cube4{
+  width: 183px;
+  height: 172px;
+  background-color: #FA7B7B;
+  border: 3px solid #2400FF ;
+  margin: 100px auto;
+  position: relative;
+  margin-bottom: -30px;
+}
+.cube5{
+  width: 88px;
+  height: 83px;
+  background-color: #FA7B7B;
+  border: 3px solid #2400FF ;
+  top: 40px;
+  left: 45px;
+  position: absolute;
+}
