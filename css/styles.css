@@ -75,3 +75,28 @@
   position: absolute;
   margin-bottom: -30px;
 }
+.retangulo1{
+  width: 140px;
+  height: 170px;
+  background-color: #5F20C6;
+  border: 30px solid #E05858 ;
+  margin: 100px auto;
+  position: relative;
+}
+.retangulo2{
+  width: 170px;
+  height: 190px;
+  background-color: #5F20C6;
+  border: 15px solid #78B45C ;
+  margin: 200px auto;
+  position: inherit;
+  right: 30px;
+}
+.circle3{
+  width: 114px;
+  height: 115px;
+  background-color: #3DA4B2;
+  border-radius: 50%;
+  margin: -200px auto;
+  position: inherit;
+}
