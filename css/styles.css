@@ -268,9 +268,9 @@ ul{
   align-content: center;
   gap: 120px;
 }
-
 .submenu {
   visibility: hidden;
+  position: absolute;
   background-color: #E241BF;
   color: white;
   width: 200px;
@@ -282,10 +282,6 @@ ul{
   border: 1px solid black;
 }
 
-.hovermenu:hover + .submenu {
+.title:hover .submenu {
   visibility: visible;
-}
-
-.submenu p {
-  margin-left: 20px; 
 }
