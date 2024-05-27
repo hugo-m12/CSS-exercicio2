@@ -233,3 +233,21 @@
 .hover:hover{
   background-color: #E241BF;
 }
+
+.button{
+  border: 1px solid black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #AFE241;
+ }
+ .button:hover{
+  background-color: #E241BF;
+  color: white;
+}
