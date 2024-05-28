@@ -261,17 +261,16 @@
   display: flex;
   justify-content: left;
 }
-ul{
-  list-style-type: none;  
-  align-items: center;
-  align-content: center;
-}
+
 .title{
   margin-left: 60px;
+  list-style-type: none;
+  align-content: center;
 }
 .submenu {
   visibility: hidden;
   position: absolute;
+  list-style-type: none;
   background-color: #E241BF;
   color: white;
   width: 200px;
